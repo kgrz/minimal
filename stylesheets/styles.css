@@ -103,6 +103,13 @@ img {
   max-width:100%;
 }
 
+nav {
+  width: 270px;
+  float:left;
+  position: fixed;
+  margin-top:230px;
+}
+
 header {
   width:270px;
   float:left;
